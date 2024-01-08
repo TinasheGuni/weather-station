@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-572fc7037443d21cfdb5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exam_rain_app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exam_rain_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam_rain_app-Debug-469276d66939aa6fc898.json",
+					"name" : "exam_rain_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam_rain_app_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam_rain_app_autogen-Debug-99e7aff86ec60ecb2e2e.json",
+					"name" : "exam_rain_app_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam_rain_app_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam_rain_app_autogen_timestamp_deps-Debug-6b10b4801d9ff59e55b4.json",
+					"name" : "exam_rain_app_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/projects/cpp/cos3711/2023/exam_rain_app/build-exam_rain_app-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+		"source" : "C:/projects/cpp/cos3711/2023/exam_rain_app/exam_rain_app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
